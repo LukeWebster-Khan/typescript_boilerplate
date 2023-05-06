@@ -2,7 +2,7 @@ import React from "react";
 
 const NavBar = () => {
     return (
-        <div className="Nav__bar-container">
+        <div className="Nav__bar-container  Nav__section">
         <ul className="Nav__links">
             <li>About</li>
             <li>Why Me?</li>
