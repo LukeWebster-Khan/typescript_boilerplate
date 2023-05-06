@@ -1,0 +1,10 @@
+.Nav__container {
+  display: flex;
+  justify-content: space-around; }
+
+.Nav__logo {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); }
+
+.Nav__links {
+  display: flex;
+  list-style: none; }
