@@ -1,10 +1,12 @@
 import React from 'react';
-import Header from './components/Header';
+import Nav from './components/Nav/Nav';
 import './App.css';
+import GoogleIcon from './google_icon.png';
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Nav />
+      <img src={GoogleIcon} alt="Google" />
     </div>
   );
 }
