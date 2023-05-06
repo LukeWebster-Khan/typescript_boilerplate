@@ -59,7 +59,7 @@
       // "experimentalDecorators": true,        /* Enables experimental support for ES7 decorators. */
       // "emitDecoratorMetadata": true,         /* Enables experimental support for emitting type metadata for decorators. */
     },
-    "include": ["src/components", "public/custom.d.ts"],
+    "include": ["src/components", "src/components/Nav", "src/custom.d.ts", "public/custom.d.ts"],
     "exclude": [
       "tests/*"
     ]
